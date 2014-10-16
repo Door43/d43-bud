@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bud:home|Door43 (bud)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bud|d43-bud repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bud/archive/master.zip|d43-bud.zip]]
+
+**Recent Changes**
+{{changes>ns = bud}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bud|Ethnologue data]]
+
